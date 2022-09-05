@@ -1,7 +1,7 @@
 {
   "name": "rtl_433-bmorton",
   "image": "docker.io/bmorton/rtl_433-hass-addons-rtl_433-amd64",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "slug": "rtl433-bmorton",
   "description": "Receive wireless sensor data via an SDR dongle and rtl_433",
   "url": "https://github.com/bmorton/rtl_433-hass-addons/tree/main/rtl_433",
